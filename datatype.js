@@ -675,13 +675,13 @@ console.log(fact);
 nthTerm(18)*/
 
 
-/*const number=10;
+const number=10;
 let sum = 0;
 //console.log("number");
 for (let i = 1; i <= number; i++) {
-    sum += i;
+    sum +=sum[i] ;
 }
 
-console.log( sum);*/
+console.log( sum);
 
 
